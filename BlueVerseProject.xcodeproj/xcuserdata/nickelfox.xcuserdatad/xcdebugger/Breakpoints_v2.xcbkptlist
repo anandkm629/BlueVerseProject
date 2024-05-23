@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "30452312-C32E-4CAC-842F-2F3F6417D052"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5CD2E68D-5BC8-4E33-B326-C2AD3914D9D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueVerseProject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "298"
+            endingLineNumber = "298"
+            landmarkName = "navigateToWallet()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5CD2E68D-5BC8-4E33-B326-C2AD3914D9D0 - c18c019784b50e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueVerseProject.ViewController.navigateToWallet() -&gt; ()"
+                  moduleName = "BlueVerseProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nickelfox/Desktop/BlueVerseProject/BlueVerseProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "380">
+               </Location>
+               <Location
+                  uuid = "5CD2E68D-5BC8-4E33-B326-C2AD3914D9D0 - c18c019784b50e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueVerseProject.ViewController.navigateToWallet() -&gt; ()"
+                  moduleName = "BlueVerseProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nickelfox/Desktop/BlueVerseProject/BlueVerseProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "268"
+                  endingLineNumber = "268"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2382870A-8F9F-41D4-9A06-F541A36C5E13"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueVerseProject/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "299"
+            endingLineNumber = "299"
+            landmarkName = "navigateToWallet()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2382870A-8F9F-41D4-9A06-F541A36C5E13 - c18c019784b52d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueVerseProject.ViewController.navigateToWallet() -&gt; ()"
+                  moduleName = "BlueVerseProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nickelfox/Desktop/BlueVerseProject/BlueVerseProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "2382870A-8F9F-41D4-9A06-F541A36C5E13 - c18c019784b52d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BlueVerseProject.ViewController.navigateToWallet() -&gt; ()"
+                  moduleName = "BlueVerseProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nickelfox/Desktop/BlueVerseProject/BlueVerseProject/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "269"
+                  endingLineNumber = "269"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19A91A73-E999-48A2-A558-78ABF6D43845"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlueVerseProject/ForgotPasswordPage.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
